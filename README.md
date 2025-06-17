@@ -21,7 +21,7 @@ def run():
     learning("Advanced Python", "C++", "Rust", "Lunarvim", "Unicon", "Haskell")
 
 >>>run()
-Greetings, my name is Raumschifffan
+Greetings, my name is Raumi
 
 I'm interested in...
     Mathematics
